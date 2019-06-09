@@ -1,0 +1,14 @@
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\obj\Debug\RestaurantCheckout.csprojAssemblyReference.cache
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\obj\Debug\RestaurantCheckout.csproj.CoreCompileInputs.cache
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\bin\Debug\RestaurantCheckout.dll
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\bin\Debug\RestaurantCheckout.pdb
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\obj\Debug\RestaurantCheckout.csproj.CopyComplete
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\obj\Debug\RestaurantCheckout.dll
+C:\Users\amishra\Desktop\Automation\RestaurantCheckout\RestaurantCheckout\obj\Debug\RestaurantCheckout.pdb

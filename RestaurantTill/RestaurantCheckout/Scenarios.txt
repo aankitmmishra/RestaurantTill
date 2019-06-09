@@ -1,0 +1,7 @@
+﻿Scenarios:
+
+1. Calculate total when counts is a positive number
+2. Calculate total when counts is less than 0
+3. Calculate total when counts of mains is -ve and startes is positive
+4. Calculate total when counts of mains and starters are 0
+5. Calculate total when counts of mains is positive and startes is -ve
